@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio Programacion Web</title>
+    <link rel="stylesheet" href="diseo.css">
+</head>
+<body>
+    <section class="concontainer">
+        
+        
+            
+           
+
+            
+            <section class="concontainer">
+                <h1>
+                    Mateo Pacheco Olarte
+
+                    
+                </h1>
+                <img class="foto1" src="imagenes/wpw.png" alt="Foto de inicio">
+                <p><a href="mailto:mateopacheco592@gmail.com">email</a></p>
+
+                    <p><a href="https://neocities.org/site/clakster1">Neocities</a></p>
+
+                    <p><a href="https://github.com/Mateopo/mateopach">github</a></p>
+
+                    <p><a href="https://www.iue.edu.co/inicio.html/">IUE</a></p>
+            </section>
+            
+
+                
+            
+            <section class="concontainer">
+            
+                <article>
+                    <h2>Trabajos</h2>
+                    <img src="./imagenes/imagen 1.jpg" alt="foto" width="350px" alinge="left">
+                    <ul>
+                        
+                        <p><a href="https://clakster1.neocities.org/hojadevida%20/hojadevida.html">Hoja de vida</a></p>                    
+                        
+                    </ul>
+                </article>
+                    </section>
+                    <section  class="concontainer">
+                        <article>
+                            <h2>consultas</h2>
+                            <img src="./imagenes/foto 2.png" alt="foto" width="350px" alinge="left">
+                            <ul>
+                                <p><a href="https://clakster1.neocities.org/consultas/consultas.html">Ver consultas</a></p>
+                               
+                            </ul>
+                        </article>
+                        </section>
+                        <section  class="concontainer">
+
+                            <article>
+                                <h2>talleres</h2>
+                                <img src="/imagenes/imagen 3.png" alt="foto" width="350px" alinge="left">
+                                <ul>
+                                    <p><a href="https://clakster1.neocities.org/Farmacia/index.html">Primer Taller</a></p>
+                                   
+                                </ul>
+                            </article>
+                            </section>
+
+                            <section  class="concontainer">
+
+                                <article>
+                                    <h2>Retos</h2>
+                                    <img src="./imagenes/imagen 4.jpg" alt="foto" width="350px" alinge="left">
+                                    <ul>
+                                        <p><a href="https://clakster1.neocities.org/sopa%20de%20letras/wordfind-master/index.html">Sopa de letras</a></p>
+                                        <p><a href="https://clakster1.neocities.org/calculadora-main/index.html">Calculadora</a></p>
+                                        <p><a href="https://clakster1.neocities.org/MOVIESAPP-MAIN/index.html">Netflix</a></p>
+                                        <p><a href="https://clakster1.neocities.org/JUEGO-DE-MEMORIA-MAIN/juego-de-memoria-main/index.html">Juego de memoria</a></p>
+                                        <p><a href="https://clakster1.neocities.org/html-css-js-fundamentals-master/Calculadora%20IMC.html">Calculadora de peso corporal</a></p>
+                                       
+                                    </ul>
+                                </article>
+                            </section>
+
+                            <footer>
+                                <article>publicado con:<img src="" alt="logotipo neocities"></article>
+                                <article><p> Lorem, ipsum dolor sit amet consectetur
+                                     adipisicing elit.
+                                     Minus velit enim fuga aut assumenda. Maiores unde
+                                      totam doloremque a quisquam, illum placeat eos sequi,
+                                       pariatur in quod. Optio, quaerat. Totam? 
+                                </p></article>
+                                <article><img src="" alt="logotipo IUE"></article>
+                            </footer>
+                        </section>
+
+        
+       
+        
+           
+        
+       
+        
+</body>
+</html>
